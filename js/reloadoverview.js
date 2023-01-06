@@ -1,3 +1,3 @@
 function myFunction() {
-   location.replace('https://ttec.netlify.app/overview.html?')
+   location.replace('https://ttecauto.netlify.app/index.html?')
 }
